@@ -1,0 +1,49 @@
+ .sign-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    /* margin-left: 8px; */
+    width: 68%;
+    /* margin-top: 14px; */
+    
+    }
+
+    div {
+      padding: 30px;
+      margin: 0px auto;
+      font-family: "Sarabun";
+      width: 400px;
+      height: 200px;
+      font-size: 20px;
+
+
+    }
+    .name{
+      display: inline-block;
+      border-radius: 10px;
+      
+   }
+
+   .email{
+    display: inline-block;
+    border-radius: 10px;
+    width: 70%;
+   }
+
+  input[type="text"] {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+  }
+
+    
